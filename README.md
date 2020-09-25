@@ -1,0 +1,2 @@
+# Drink of Water Plugin
+1hごとにプレーヤーに水を飲むことをお知らせするPaperネタプラグイン

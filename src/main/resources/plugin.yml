@@ -1,0 +1,7 @@
+name: Drinking Of Water
+version: @version@
+main: xyz.n7mn.dev.neta.drinkingofwater.DrinkingOfWater
+api-version: 1.16
+authors: [ n3m_ ]
+description: 水飲めや
+website: https://n7mn.xyz/
